@@ -8,8 +8,8 @@
 
 ### Clone the repository
 ```
-git clone <repo=url>
-cd <project-name>
+git clone https://github.com/rajdeep-ray/glofox-task-gofiber.git
+cd glofox-task-gofiber
 ```
 
 ### Install Dependencies
