@@ -22,7 +22,7 @@ Air is a development tool that automatically reloads your Go server when file ch
 
 To install `air` globally, run:
 ```
-go install github.com/cosmtrek/air@latest
+go install github.com/air-verse/air@latest
 ```
 
 Configuration for Air
